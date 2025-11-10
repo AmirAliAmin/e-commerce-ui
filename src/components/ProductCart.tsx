@@ -45,6 +45,7 @@ export default function ProductCart({product}:{product:ProductType}) {
               ))}
             </select>
           </div>
+          
           {/* Colors */}
           <div className="flex flex-col gap-1">
             <span className="text-gray-500">Color</span>
